@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @boomoorooz
-- 👀 I’m interested in traveling/medititation/finance/cryptocurrencies
+- 👀 I’m interested in traveling/finance/cryptocurrencies
 - 🌱 I’m currently learning front-end-dev
 - 💞️
 - 📫 How to reach me ... / facebook.com/bomoroz
