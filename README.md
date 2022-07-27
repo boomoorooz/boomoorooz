@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @boomoorooz
 - 👀 I’m interested in traveling/finance/cryptocurrencies
-- 🌱 I’m currently learning front-end-dev
+- 🌱 I’m currently learning QA
